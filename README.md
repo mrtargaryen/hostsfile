@@ -1,4 +1,4 @@
-# hostsfile
+# Facebook Only Hosts File
 
 Just a private hosts file
 
